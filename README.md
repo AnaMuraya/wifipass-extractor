@@ -6,7 +6,8 @@ Open a terminal and navigate to the directory containing the script.\
 Run the script using Python:\
 
 ```bash
-python wifi_password_extractor.py
+python wifi.py
+python wifi2.py
 ```
 
 **Note**\
