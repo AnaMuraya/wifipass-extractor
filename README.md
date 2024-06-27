@@ -1,6 +1,6 @@
 # wifi-pass-extractor
 
-**Usage**
+**Usage**\
 Clone or download this repository.\
 Open a terminal and navigate to the directory containing the script.\
 Run the script using Python:\
@@ -9,6 +9,6 @@ Run the script using Python:\
 python wifi_password_extractor.py
 ```
 
-**Note**
+**Note**\
 This script must be run with administrator privileges to access Wi-Fi passwords.\
 The script is designed for educational purposes. Use it responsibly and ensure you have permission to access the Wi-Fi profiles.
